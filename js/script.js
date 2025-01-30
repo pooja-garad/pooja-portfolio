@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
     // Typewriter effect
     const typewriter = document.querySelector('.typewriter');
     if (typewriter) {
-        const text = "Software Engineer & Developer";
+        const text = "Pega Developer & Software Engineer";
         let index = 0;
         typewriter.textContent = '';
         
